@@ -17,7 +17,7 @@ A minimalistic PowerBI based Dashboard depicting Youtube Data Analytics for your
 * Execute the Python Script: **python main.py** to fetch your youtube analytics data as a Json File *(ensure you update the script with the credentials.json file that you downloaded from the GCP console.)
 * Proceed with the following steps, in order to generate the json data dump from Youtube for your channel in the terminal.
 * *Ctrl+C* and *Ctrl+V* the json data dump in a blank file and save it as ***data.json*** in the same directory.
-* Run the Notebook ***Json_Parsing.ipynb*** in order to parse the data from json file to a pandas dataframe :wink: and then store it in an Excel Spreadsheet.
+* Run the Notebook ***Json_Parsing.ipynb*** which will parse the data from the data dump (json file) to a pandas dataframe and then store it in an Excel Spreadsheet :wink: .
 * Launch the PowerBI dashboard and Import the Spreadsheet -> Hit **Refresh** and your dashboard is good to go :heart:
 
 ## Dashboard 
@@ -26,3 +26,5 @@ A minimalistic PowerBI based Dashboard depicting Youtube Data Analytics for your
 </kbd>
 
 &nbsp;
+
+###### I made the Youtube Channel just for fun and I am not really active on it, hence the results aren't that pleasing! 😅
