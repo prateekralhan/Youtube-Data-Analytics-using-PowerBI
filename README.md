@@ -28,6 +28,6 @@ A minimalistic PowerBI based Dashboard depicting Youtube Data Analytics for your
 &nbsp;
 
 ###### I made the Youtube Channel just for fun and I am not really active on it, hence the results aren't that pleasing! 😅 
-###### Still, it would be awesome if you can check my YouTube Channel here ![YouTube](https://cdn.emojidex.com/emoji/xxhdpi/YouTube.png "YouTube")👇:
+###### Still, it would be awesome if you can check my YouTube Channel here :wink: 👇 and "Subsrcibe":
 
 [![My YouTube Channel Link](https://user-images.githubusercontent.com/29462447/103466326-1cccfb80-4d6a-11eb-9ef1-8ae8447668f2.png)](https://www.youtube.com/channel/UCXJWeuSfr9cNYAK2SX2l8EQ)
