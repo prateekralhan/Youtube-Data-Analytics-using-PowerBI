@@ -1,4 +1,28 @@
 # Youtube-Data-Analytics-using-PowerBI ![YouTube](https://cdn.emojidex.com/emoji/xxhdpi/YouTube.png "YouTube")
 A minimalistic PowerBI based Dashboard depicting Youtube Data Analytics for your Youtube Channel :smile: 
 
+## Installation:
+* The command ***pip install -r requirements.txt** installs the necessary python dependencies for us.
+* Ensure you have [***PowerBI Desktop 2020***](https://powerbi.microsoft.com/en-us/downloads/) installed in your system.
+
+## Usage:
+* Open your **Google Cloud Console** and navigate to the **APIs and Service** section and select **Library**
+* Search for the **YouTube Analytics API** and enable it for your project.
+* At the top of the **Credentials page**, select the OAuth consent screen tab. Select an Email address, enter a Product name if not already set, and click the Save button.
+* On the **Credentials** page, click the **Create credentials** button and select **Oauth client ID**.
+* Select the application type **Other**, enter the name "YouTube Analytics API dashboard using powerbi", and click the **Create** button.
+* Click OK to dismiss the resulting dialog.
+* Click the **file_download (Download JSON)** button to the right of the client ID.
+* Move the downloaded file to your working directory.
+* Execute the Python Script: **python main.py** to fetch your youtube analytics data as a Json File *(ensure you update the script with the credentials.json file that you downloaded from the GCP console.)
+* Proceed with the following steps, in order to generate the json data dump from Youtube for your channel in the terminal.
+* *Ctrl+C* and *Ctrl+V* the json data dump in a blank file and save it as ***data.json*** in the same directory.
+* Run the Notebook ***Json_Parsing.ipynb*** in order to parse the data from json file to a pandas dataframe :wink: and then store it in an Excel Spreadsheet.
+* Launch the PowerBI dashboard and Import the Spreadsheet -> Hit **Refresh** and your dashboard is good to go :heart:
+
 ## Dashboard 
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103466002-d924c280-4d66-11eb-9e85-4cd01f63707f.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103466002-d924c280-4d66-11eb-9e85-4cd01f63707f.png"/> 
+</kbd>
+
+&nbsp;
