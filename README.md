@@ -24,7 +24,7 @@ A minimalistic PowerBI based Dashboard depicting Youtube Data Analytics for your
 
 ## Dashboard 
 * You can access the live Dashboard by scanning this QR Code:
-<p align="center>
+<p align="center">
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/103478797-1f256900-4def-11eb-931b-558be9fbb806.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/103478797-1f256900-4def-11eb-931b-558be9fbb806.jpg"/> 
 </kbd>
