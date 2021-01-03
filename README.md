@@ -28,9 +28,6 @@ A minimalistic PowerBI based Dashboard depicting Youtube Data Analytics for your
 </kbd>
 
 &nbsp;
-
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e267faba-c234-4b8d-af5e-40daa7af7774&autoAuth=true&ctid=d309f125-4bdd-4115-b8ef-f4447333cab7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-
 ###### I made the Youtube Channel just for fun and I am not really active on it, hence the results aren't that pleasing! 😅 
 ###### Still, it would be awesome if you can check my YouTube Channel here :wink: 👇 and "Subsrcibe":
 
